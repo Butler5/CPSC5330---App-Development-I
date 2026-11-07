@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific data
+**/xcuserdata/
+**/*.xcuserstate
+**/*.xccheckout
+**/DerivedData/
+
+# Swift package manager
+.build/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.idea/
+.vscode/
+*.swp
